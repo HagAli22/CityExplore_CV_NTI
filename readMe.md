@@ -50,6 +50,9 @@ python main.py --mode full
 ```
 
 ### 3. Run Web Application
+
+![image](models/image.png)
+
 ```bash
 # Set up environment variables
 cp .env.example .env
@@ -58,7 +61,6 @@ cp .env.example .env
 # Run Streamlit app
 streamlit run app.py
 
-![image](https://raw.githubusercontent.com/HagAli22/CityExplore_CV_NTI/main/models/image.png)
 
 ```
 
