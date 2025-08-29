@@ -58,7 +58,7 @@ cp .env.example .env
 # Run Streamlit app
 streamlit run app.py
 
-![image](https://github.com/HagAli22/CityExplore_CV_NTI/blob/main/models/image.png)
+![image](https://raw.githubusercontent.com/HagAli22/CityExplore_CV_NTI/main/models/image.png)
 
 ```
 
